@@ -2,7 +2,7 @@ module.exports = {
   title: 'CADvanced documentation test',
   tagline: '',
   url: 'https://cadvanced.github.io',
-  baseUrl: '/cadvanced-docs/docs/',
+  baseUrl: '/cadvanced-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
