@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Free FiveM plugin',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/feature-icon-2.png',
     description: (
       <>
         The optional, free FiveM plugin brings amazing real-time integration between CADvanced & FiveM.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Steam integration',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/feature-icon-5.png',
     description: (
       <>
         Logging into CADvanced is done via Steam, so no giving your details to yet another website!
@@ -27,10 +27,37 @@ const features = [
   },
   {
     title: 'Easy admin',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/feature-icon-6.png',
     description: (
       <>
         Managing your CAD shouldn't be a chore. Our admin tools put everything at your fingertips.
+      </>
+    ),
+  },
+  {
+    title: 'Dedicated support',
+    imageUrl: 'img/feature-icon-4.png',
+    description: (
+      <>
+        We don't believe you'll have problems using CADvanced, but if you do, we're here to help!
+      </>
+    ),
+  },
+  {
+    title: 'Simple pricing',
+    imageUrl: 'img/service-icon-2.png',
+    description: (
+      <>
+        CADvanced pricing is simple, no tiers, just one, flat low rate for everyone
+      </>
+    ),
+  },
+  {
+    title: 'Amazing feature set',
+    imageUrl: 'img/service-icon-3.png',
+    description: (
+      <>
+        CADvanced has a public API that you can use to integrate into your own scripts, you can pull anything from officer names to citizen data and integrate it into your framework and other scripts!
       </>
     ),
   },
