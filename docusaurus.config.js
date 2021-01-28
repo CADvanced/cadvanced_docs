@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'CADvanced documentation test',
+  title: 'CADvanced documentation',
   tagline: '',
-  url: 'https://cadvanced.github.io',
+  url: 'https://docs.cadvanced.app',
   baseUrl: '/cadvanced-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
