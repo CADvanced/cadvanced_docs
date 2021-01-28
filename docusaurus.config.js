@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/cadvanced_fav.ico',
   organizationName: 'CADvanced', // Usually your GitHub org/user name.
   projectName: 'cadvanced_docs', // Usually your repo name.
   themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
       title: 'CADvanced',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/cadvanced_logo.png  ',
       },
       items: [
         {
