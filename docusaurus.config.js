@@ -41,7 +41,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CADvanced. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CADvanced. Next generation roleplay.`,
     },
   },
   presets: [
