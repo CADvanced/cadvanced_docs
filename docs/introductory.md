@@ -1,5 +1,5 @@
 ---
-id: intro_1
+id: intro
 title: CADvanced Systems
 ---
 
