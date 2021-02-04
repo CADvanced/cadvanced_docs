@@ -1,6 +1,7 @@
 ---
 id: intro
 title: CADvanced Systems
+slug: /
 ---
 
 :::important
