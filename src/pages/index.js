@@ -8,38 +8,11 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Free FiveM plugin',
-    imageUrl: 'img/feature-icon-2.png',
+    title: 'Fully hosted',
+    imageUrl: 'img/service-icon-2.png',
     description: (
       <>
-        The optional, free FiveM plugin brings amazing real-time integration between CADvanced & FiveM.
-      </>
-    ),
-  },
-  {
-    title: 'Steam integration',
-    imageUrl: 'img/feature-icon-5.png',
-    description: (
-      <>
-        Logging into CADvanced is done via Steam, so no giving your details to yet another website!
-      </>
-    ),
-  },
-  {
-    title: 'Easy admin',
-    imageUrl: 'img/feature-icon-6.png',
-    description: (
-      <>
-        Managing your CAD shouldn't be a chore. Our admin tools put everything at your fingertips.
-      </>
-    ),
-  },
-  {
-    title: 'Dedicated support',
-    imageUrl: 'img/feature-icon-4.png',
-    description: (
-      <>
-        We don't believe you'll have problems using CADvanced, but if you do, we're here to help!
+        CADvanced is a fully hosted solution, making it extremely easy for you to get up and running quickly.
       </>
     ),
   },
