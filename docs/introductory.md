@@ -2,6 +2,7 @@
 id: intro
 title: CADvanced Systems
 slug: /
+sidebar_label: Introduction
 ---
 
 :::important

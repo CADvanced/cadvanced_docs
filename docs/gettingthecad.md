@@ -1,6 +1,7 @@
 ---
 id: getstarted
 title: Getting our system
+sidebar_label: Getting the system
 ---
 
 ## Getting started
