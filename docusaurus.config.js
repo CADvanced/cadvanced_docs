@@ -1,6 +1,6 @@
 module.exports = {
   title: 'CADvanced documentation',
-  tagline: '',
+  tagline: 'Next generation roleplay systems.',
   url: 'https://docs.cadvanced.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -12,14 +12,32 @@ module.exports = {
     navbar: {
       title: 'CADvanced',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'cadvanced_logo',
         src: 'img/cadvanced_logo.png  ',
       },
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'docs',
+          activeBasePath: 'intro',
           label: 'Docs',
+          position: 'left',
+        },
+        {
+          to: 'https://cadvanced.app/youtube',
+          activeBasePath: '/',
+          label: 'Youtube',
+          position: 'left',
+        },
+        {
+          to: 'https://cadvanced.app/discord',
+          activeBasePath: '/',
+          label: 'Discord',
+          position: 'left',
+        },
+        {
+          to: 'https://cadvanced.app/mdt',
+          activeBasePath: '/',
+          label: 'GitHub',
           position: 'left',
         }
       ],
@@ -31,12 +49,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Introduction',
+              to: 'docs/intro',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Contact us',
+              to: 'mail:support@cadvanced.app',
             },
           ],
         },
