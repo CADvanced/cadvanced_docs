@@ -4,7 +4,7 @@ title: Getting our system
 ---
 
 ## Getting started
-This guide will teach you exactly how to begin your free trial of our system and how to access it.
+This guide will teach you exactly how to begin your free trial of our system and how to access it. We hope you enjoy!
 ---
 
 ### Begin your trial
