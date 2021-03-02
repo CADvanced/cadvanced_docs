@@ -1,6 +1,6 @@
 ---
 id: intro
-title: CADvanced Systems
+title: CADvanced Introduction
 slug: /
 sidebar_label: Introduction
 ---
