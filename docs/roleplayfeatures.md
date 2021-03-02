@@ -38,6 +38,14 @@ Setting up the panic button feature requires you to navigate to the `Admin > Pre
  
   You can edit these to your exact liking!
 
+# Terminal
+The in game terminal is a way for officers to quickly see call attachments, status's and which unit they are assigned to. The terminal is a small box that can be moved around the screen using commands. The following are the commands which are all customisable within the **mdt_config.lua** file.
+**/to** - opens the terminal.
+**/tc** - closes the terminal.
+**/mt** - allows you to drag the terminal around the screen.
+
+https://i.del.gg/i/FCSFB.png
+
 
 :::tip
 
